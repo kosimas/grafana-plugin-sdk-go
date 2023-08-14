@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
-	"github.com/grafana/grafana-plugin-sdk-go/experimental/macros"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend"
+	"github.com/kosimas/grafana-plugin-sdk-go/experimental/macros"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

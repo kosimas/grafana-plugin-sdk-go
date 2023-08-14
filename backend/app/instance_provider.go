@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
-	"github.com/grafana/grafana-plugin-sdk-go/backend/instancemgmt"
-	"github.com/grafana/grafana-plugin-sdk-go/internal/tenant"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend/instancemgmt"
+	"github.com/kosimas/grafana-plugin-sdk-go/internal/tenant"
 )
 
 // InstanceFactoryFunc factory method for creating app instances.

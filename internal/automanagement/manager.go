@@ -3,8 +3,8 @@ package automanagement
 import (
 	"context"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
-	"github.com/grafana/grafana-plugin-sdk-go/backend/instancemgmt"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend/instancemgmt"
 
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"

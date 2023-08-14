@@ -9,10 +9,10 @@ import (
 
 	"github.com/elazarl/goproxy"
 
-	ca "github.com/grafana/grafana-plugin-sdk-go/experimental/e2e/certificate_authority"
-	"github.com/grafana/grafana-plugin-sdk-go/experimental/e2e/config"
-	"github.com/grafana/grafana-plugin-sdk-go/experimental/e2e/fixture"
-	"github.com/grafana/grafana-plugin-sdk-go/experimental/e2e/utils"
+	ca "github.com/kosimas/grafana-plugin-sdk-go/experimental/e2e/certificate_authority"
+	"github.com/kosimas/grafana-plugin-sdk-go/experimental/e2e/config"
+	"github.com/kosimas/grafana-plugin-sdk-go/experimental/e2e/fixture"
+	"github.com/kosimas/grafana-plugin-sdk-go/experimental/e2e/utils"
 )
 
 // ProxyMode is the record or playback mode of the Proxy.

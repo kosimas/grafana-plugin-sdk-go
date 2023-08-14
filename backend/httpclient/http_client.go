@@ -7,7 +7,7 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend/proxy"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend/proxy"
 )
 
 // New creates a new http.Client.

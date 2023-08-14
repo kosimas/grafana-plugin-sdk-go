@@ -6,7 +6,7 @@ import (
 	plugin "github.com/hashicorp/go-plugin"
 	"google.golang.org/grpc"
 
-	"github.com/grafana/grafana-plugin-sdk-go/genproto/pluginv2"
+	"github.com/kosimas/grafana-plugin-sdk-go/genproto/pluginv2"
 )
 
 // ResourceServer is the server API for the Resource service.

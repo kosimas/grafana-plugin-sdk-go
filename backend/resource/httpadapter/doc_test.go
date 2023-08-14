@@ -3,7 +3,7 @@ package httpadapter
 import (
 	"net/http"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend"
 )
 
 func Example() {

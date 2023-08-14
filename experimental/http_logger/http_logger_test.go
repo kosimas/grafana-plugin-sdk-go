@@ -11,8 +11,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/grafana/grafana-plugin-sdk-go/experimental/e2e/storage"
-	httplogger "github.com/grafana/grafana-plugin-sdk-go/experimental/http_logger"
+	"github.com/kosimas/grafana-plugin-sdk-go/experimental/e2e/storage"
+	httplogger "github.com/kosimas/grafana-plugin-sdk-go/experimental/http_logger"
 )
 
 func TestHTTPLogger(t *testing.T) {

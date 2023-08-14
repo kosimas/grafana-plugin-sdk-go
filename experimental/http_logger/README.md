@@ -38,7 +38,7 @@ package client
 import (
 	"net/http"
 
- 	"github.com/grafana/grafana-plugin-sdk-go/backend/httpclient"
+ 	"github.com/kosimas/grafana-plugin-sdk-go/backend/httpclient"
 )
 
 func getClient() (*http.Client, error) {
@@ -54,8 +54,8 @@ package client
 import (
 	"net/http"
 
- 	"github.com/grafana/grafana-plugin-sdk-go/backend/httpclient"
-	httplogger "github.com/grafana/grafana-plugin-sdk-go/experimental/http_logger"
+ 	"github.com/kosimas/grafana-plugin-sdk-go/backend/httpclient"
+	httplogger "github.com/kosimas/grafana-plugin-sdk-go/experimental/http_logger"
 )
 
 func getClient() (*http.Client, error) {

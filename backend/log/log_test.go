@@ -3,7 +3,7 @@ package log_test
 import (
 	"testing"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend/log"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend/log"
 	"github.com/stretchr/testify/assert"
 )
 

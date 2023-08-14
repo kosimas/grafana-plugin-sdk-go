@@ -16,7 +16,7 @@ import (
 	"go.opentelemetry.io/otel/sdk/trace/tracetest"
 	"go.opentelemetry.io/otel/trace"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend/tracing"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend/tracing"
 )
 
 // TracerProvider provides a tracer that can be used to instrument a plugin with tracing.

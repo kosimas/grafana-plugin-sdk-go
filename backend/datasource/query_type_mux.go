@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend"
 )
 
 // QueryTypeMux is a query type multiplexer.

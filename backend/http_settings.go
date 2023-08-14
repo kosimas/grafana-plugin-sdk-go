@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend/httpclient"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend/httpclient"
 )
 
 // HTTPSettings is a convenient struct for holding decoded HTTP settings from

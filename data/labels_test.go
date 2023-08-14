@@ -7,7 +7,7 @@ import (
 	jsoniter "github.com/json-iterator/go"
 	"github.com/stretchr/testify/require"
 
-	"github.com/grafana/grafana-plugin-sdk-go/data"
+	"github.com/kosimas/grafana-plugin-sdk-go/data"
 )
 
 // Equals returns true if the argument has the same k=v pairs as the receiver.

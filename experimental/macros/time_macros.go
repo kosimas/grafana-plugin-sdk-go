@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend"
 )
 
 func FromMacro(inputString string, timeRange backend.TimeRange) (string, error) {

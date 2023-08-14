@@ -13,7 +13,7 @@ package main
 
 import (
 	// mage:import
-	build "github.com/grafana/grafana-plugin-sdk-go/build"
+	build "github.com/kosimas/grafana-plugin-sdk-go/build"
 )
 
 // Default configures the default target.

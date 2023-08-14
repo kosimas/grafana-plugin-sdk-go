@@ -10,10 +10,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/grafana/grafana-plugin-sdk-go/experimental/e2e"
-	"github.com/grafana/grafana-plugin-sdk-go/experimental/e2e/config"
-	"github.com/grafana/grafana-plugin-sdk-go/experimental/e2e/fixture"
-	"github.com/grafana/grafana-plugin-sdk-go/experimental/e2e/storage"
+	"github.com/kosimas/grafana-plugin-sdk-go/experimental/e2e"
+	"github.com/kosimas/grafana-plugin-sdk-go/experimental/e2e/config"
+	"github.com/kosimas/grafana-plugin-sdk-go/experimental/e2e/fixture"
+	"github.com/kosimas/grafana-plugin-sdk-go/experimental/e2e/storage"
 	"github.com/stretchr/testify/require"
 )
 

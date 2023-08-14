@@ -7,7 +7,7 @@ import (
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/common/expfmt"
 
-	"github.com/grafana/grafana-plugin-sdk-go/genproto/pluginv2"
+	"github.com/kosimas/grafana-plugin-sdk-go/genproto/pluginv2"
 )
 
 // diagnosticsSDKAdapter adapter between low level plugin protocol and SDK interfaces.

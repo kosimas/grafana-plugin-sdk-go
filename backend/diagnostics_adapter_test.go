@@ -11,9 +11,9 @@ import (
 	"github.com/stretchr/testify/require"
 	"google.golang.org/grpc/metadata"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend/httpclient"
-	"github.com/grafana/grafana-plugin-sdk-go/genproto/pluginv2"
-	"github.com/grafana/grafana-plugin-sdk-go/internal/tenant"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend/httpclient"
+	"github.com/kosimas/grafana-plugin-sdk-go/genproto/pluginv2"
+	"github.com/kosimas/grafana-plugin-sdk-go/internal/tenant"
 )
 
 func TestCollectMetrcis(t *testing.T) {

@@ -15,17 +15,17 @@ For more ways to contribute, check out the [Open Source Guides](https://opensour
 
 ### Report bugs
 
-Report a bug by submitting a [bug report](https://github.com/grafana/grafana-plugin-sdk-go/issues/new?labels=bug&template=1-bug_report.md). Make sure that you provide as much information as possible on how to reproduce the bug.
+Report a bug by submitting a [bug report](https://github.com/kosimas/grafana-plugin-sdk-go/issues/new?labels=bug&template=1-bug_report.md). Make sure that you provide as much information as possible on how to reproduce the bug.
 
-Before submitting a new issue, try to make sure someone hasn't already reported the problem. Look through the [existing issues](https://github.com/grafana/grafana-plugin-sdk-go/issues) for similar issues.
+Before submitting a new issue, try to make sure someone hasn't already reported the problem. Look through the [existing issues](https://github.com/kosimas/grafana-plugin-sdk-go/issues) for similar issues.
 
 #### Security issues
 
-If you believe you've found a security vulnerability, please read our [security policy](https://github.com/grafana/grafana-plugin-sdk-go/security/policy) for more details.
+If you believe you've found a security vulnerability, please read our [security policy](https://github.com/kosimas/grafana-plugin-sdk-go/security/policy) for more details.
 
 ### Suggest enhancements
 
-If you have an idea of how to improve Grafana Plugin SDK for Go, submit an [enhancement request](https://github.com/grafana/grafana-plugin-sdk-go/issues/new?labels=enhancement&template=2-enhancement_request.md).
+If you have an idea of how to improve Grafana Plugin SDK for Go, submit an [enhancement request](https://github.com/kosimas/grafana-plugin-sdk-go/issues/new?labels=enhancement&template=2-enhancement_request.md).
 
 ## Where do I go from here?
 

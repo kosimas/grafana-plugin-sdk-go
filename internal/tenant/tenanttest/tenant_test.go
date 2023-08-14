@@ -7,11 +7,11 @@ import (
 	"github.com/stretchr/testify/require"
 	"google.golang.org/grpc/metadata"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
-	"github.com/grafana/grafana-plugin-sdk-go/backend/datasource"
-	"github.com/grafana/grafana-plugin-sdk-go/backend/instancemgmt"
-	experimentalDS "github.com/grafana/grafana-plugin-sdk-go/experimental/datasourcetest"
-	"github.com/grafana/grafana-plugin-sdk-go/internal/tenant"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend/datasource"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend/instancemgmt"
+	experimentalDS "github.com/kosimas/grafana-plugin-sdk-go/experimental/datasourcetest"
+	"github.com/kosimas/grafana-plugin-sdk-go/internal/tenant"
 )
 
 const (

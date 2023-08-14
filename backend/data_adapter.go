@@ -4,8 +4,8 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend/httpclient"
-	"github.com/grafana/grafana-plugin-sdk-go/genproto/pluginv2"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend/httpclient"
+	"github.com/kosimas/grafana-plugin-sdk-go/genproto/pluginv2"
 )
 
 // dataSDKAdapter adapter between low level plugin protocol and SDK interfaces.

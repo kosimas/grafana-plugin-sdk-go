@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/grafana/grafana-plugin-sdk-go/data"
-	conv "github.com/grafana/grafana-plugin-sdk-go/data/converters"
+	"github.com/kosimas/grafana-plugin-sdk-go/data"
+	conv "github.com/kosimas/grafana-plugin-sdk-go/data/converters"
 )
 
 func ExampleNewFrameInputConverter() {

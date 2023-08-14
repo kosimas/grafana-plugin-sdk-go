@@ -236,15 +236,15 @@ package main
 
 import (
 	// mage:import
-	build "github.com/grafana/grafana-plugin-sdk-go/build"
+	build "github.com/kosimas/grafana-plugin-sdk-go/build"
 
 	"bytes"
 	"net/http"
 
-	"github.com/grafana/grafana-plugin-sdk-go/experimental/e2e"
-	"github.com/grafana/grafana-plugin-sdk-go/experimental/e2e/config"
-	"github.com/grafana/grafana-plugin-sdk-go/experimental/e2e/fixture"
-	"github.com/grafana/grafana-plugin-sdk-go/experimental/e2e/storage"
+	"github.com/kosimas/grafana-plugin-sdk-go/experimental/e2e"
+	"github.com/kosimas/grafana-plugin-sdk-go/experimental/e2e/config"
+	"github.com/kosimas/grafana-plugin-sdk-go/experimental/e2e/fixture"
+	"github.com/kosimas/grafana-plugin-sdk-go/experimental/e2e/storage"
 )
 
 // Default configures the default target.

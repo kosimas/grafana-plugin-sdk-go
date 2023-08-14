@@ -10,8 +10,8 @@ import (
 	"go.opentelemetry.io/otel/attribute"
 	semconv "go.opentelemetry.io/otel/semconv/v1.4.0"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend/tracing"
-	"github.com/grafana/grafana-plugin-sdk-go/internal/tracerprovider"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend/tracing"
+	"github.com/kosimas/grafana-plugin-sdk-go/internal/tracerprovider"
 )
 
 var (

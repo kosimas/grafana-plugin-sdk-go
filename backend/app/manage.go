@@ -3,9 +3,9 @@ package app
 import (
 	"fmt"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
-	"github.com/grafana/grafana-plugin-sdk-go/backend/tracing"
-	"github.com/grafana/grafana-plugin-sdk-go/internal/automanagement"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend/tracing"
+	"github.com/kosimas/grafana-plugin-sdk-go/internal/automanagement"
 )
 
 // ManageOpts can modify Manage behaviour.

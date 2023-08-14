@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend/proxy"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend/proxy"
 )
 
 // ConfigureClientFunc function signature for configuring http.Client.

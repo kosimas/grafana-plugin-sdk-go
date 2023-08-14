@@ -42,7 +42,7 @@ func (v Info) appendFlags(flags map[string]string) {
 
 	out, err := json.Marshal(v)
 	if err == nil {
-		flags["github.com/grafana/grafana-plugin-sdk-go/build.buildInfoJSON"] = string(out)
+		flags["github.com/kosimas/grafana-plugin-sdk-go/build.buildInfoJSON"] = string(out)
 	}
 }
 
@@ -108,7 +108,7 @@ func getBuildInfoFromEnvironment() Info {
 }
 
 // GetBuildInfo returns the build information that was compiled into the binary using:
-// -X `github.com/grafana/grafana-plugin-sdk-go/build.buildInfoJSON={...}`
+// -X `github.com/kosimas/grafana-plugin-sdk-go/build.buildInfoJSON={...}`
 func GetBuildInfo() (Info, error) {
 	v := Info{}
 	if buildInfoJSON == "" {

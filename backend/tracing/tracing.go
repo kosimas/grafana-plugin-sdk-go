@@ -15,7 +15,7 @@ type Opts struct {
 }
 
 // defaultTracerName is the name for the default tracer that is set up if InitDefaultTracer is never called.
-const defaultTracerName = "github.com/grafana/grafana-plugin-sdk-go"
+const defaultTracerName = "github.com/kosimas/grafana-plugin-sdk-go"
 
 var (
 	defaultTracer         trace.Tracer

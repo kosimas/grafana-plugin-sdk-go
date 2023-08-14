@@ -3,7 +3,7 @@ package data_test
 import (
 	"testing"
 
-	"github.com/grafana/grafana-plugin-sdk-go/data"
+	"github.com/kosimas/grafana-plugin-sdk-go/data"
 	"github.com/stretchr/testify/require"
 )
 

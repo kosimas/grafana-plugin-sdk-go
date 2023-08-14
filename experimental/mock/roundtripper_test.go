@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/grafana/grafana-plugin-sdk-go/experimental/mock"
+	"github.com/kosimas/grafana-plugin-sdk-go/experimental/mock"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

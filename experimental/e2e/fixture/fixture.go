@@ -5,8 +5,8 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/grafana/grafana-plugin-sdk-go/experimental/e2e/storage"
-	"github.com/grafana/grafana-plugin-sdk-go/experimental/e2e/utils"
+	"github.com/kosimas/grafana-plugin-sdk-go/experimental/e2e/storage"
+	"github.com/kosimas/grafana-plugin-sdk-go/experimental/e2e/utils"
 )
 
 type RequestProcessor func(req *http.Request) *http.Request

@@ -13,7 +13,7 @@ import (
 	"go.opentelemetry.io/otel/propagation"
 	"go.opentelemetry.io/otel/trace"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend/tracing"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend/tracing"
 )
 
 const (

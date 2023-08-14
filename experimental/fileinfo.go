@@ -3,7 +3,7 @@ package experimental
 import (
 	"os"
 
-	"github.com/grafana/grafana-plugin-sdk-go/data"
+	"github.com/kosimas/grafana-plugin-sdk-go/data"
 )
 
 func GetDirectoryFrame(p string, details bool) (*data.Frame, error) {

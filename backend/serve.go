@@ -18,11 +18,11 @@ import (
 	"go.opentelemetry.io/otel"
 	"google.golang.org/grpc"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend/grpcplugin"
-	"github.com/grafana/grafana-plugin-sdk-go/backend/log"
-	"github.com/grafana/grafana-plugin-sdk-go/genproto/pluginv2"
-	"github.com/grafana/grafana-plugin-sdk-go/internal/standalone"
-	"github.com/grafana/grafana-plugin-sdk-go/internal/tracerprovider"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend/grpcplugin"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend/log"
+	"github.com/kosimas/grafana-plugin-sdk-go/genproto/pluginv2"
+	"github.com/kosimas/grafana-plugin-sdk-go/internal/standalone"
+	"github.com/kosimas/grafana-plugin-sdk-go/internal/tracerprovider"
 )
 
 const defaultServerMaxReceiveMessageSize = 1024 * 1024 * 16

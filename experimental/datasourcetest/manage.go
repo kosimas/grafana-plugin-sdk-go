@@ -1,9 +1,9 @@
 package datasourcetest
 
 import (
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
-	"github.com/grafana/grafana-plugin-sdk-go/backend/datasource"
-	"github.com/grafana/grafana-plugin-sdk-go/internal/automanagement"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend"
+	"github.com/kosimas/grafana-plugin-sdk-go/backend/datasource"
+	"github.com/kosimas/grafana-plugin-sdk-go/internal/automanagement"
 )
 
 type ManageOpts struct {

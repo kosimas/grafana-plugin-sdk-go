@@ -15,7 +15,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/grafana/grafana-plugin-sdk-go/internal"
+	"github.com/kosimas/grafana-plugin-sdk-go/internal"
 )
 
 var (
